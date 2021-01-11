@@ -9,7 +9,7 @@
 
     <packaging>pom</packaging>
 
-    <name>docdoku-plm DocDokuPLM</name>
+    <name>docdoku-plm DocDokuPLM API</name>
 
     <description>DocDokuPLM is a high end Open Source PLM solution.</description>
 
