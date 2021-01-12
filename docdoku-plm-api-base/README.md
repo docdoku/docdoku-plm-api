@@ -11,7 +11,7 @@ This module generate the REST API Reference sites
 Build properties (defaults)
 
     -Denv.API_HOST=https://docdokuplm.net
-    -Denv.API_BASE_PATH=/eplmp-server-rest/api
+    -Denv.API_BASE_PATH=/docdoku-plm-server-rest/api
     -Denv.API_TITLE=DocDokuPLM API
     -Denv.API_VERSION=${project.version}
     -Denv.API_DESCRIPTION=DocDokuPLM API Description and Reference
