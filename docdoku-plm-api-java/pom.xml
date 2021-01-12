@@ -195,8 +195,8 @@
                         <configuration>
                             <artifactItems>
                                 <artifactItem>
-                                    <groupId>com.docdoku</groupId>
-                                    <artifactId>docdoku-api</artifactId>
+                                    <groupId>com.docdoku.plm</groupId>
+                                    <artifactId>docdoku-plm-api-base</artifactId>
                                     <version>${project.version}</version>
                                     <classifier>json</classifier>
                                     <overWrite>false</overWrite>
